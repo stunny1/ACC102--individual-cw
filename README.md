@@ -1,4 +1,4 @@
-# Project Title
+# Foreign Investment Risk Analysis
 ## 1. Problem & User 
 This project visualizes the judicial risk of foreign investment in China by analyzing legal disputes over the years. It is aimed at stakeholders in the legal, financial, and investment sectors who need to understand the risks associated with foreign investment in China.
 ## 2. Data 
@@ -26,14 +26,14 @@ The project follows these steps:
 - Total case counts and growth rate analysis.
 - Regression analysis results showing the relationship between the number of cases and the year.
 - Hypothesis testing for statistical significance of the year-on-year case trend.
-## 5. How to run (optional but valuable)
+## 5. How to run 
 #To run this project, follow these steps:
 
 #（1）Install Dependencies
 - First, you need to install the required Python dependencies. In your terminal, run:
 
 pip install -r requirements.txt
-- If you don't have a requirements.txt file, you can manually install the necessary libraries using the following commands:
+
 
 pip install streamlit pandas matplotlib plotly statsmodels geopandas folium
 
