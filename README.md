@@ -2,13 +2,12 @@
 ## 1. Problem & User 
 This project visualizes the judicial risk of foreign investment in China by analyzing legal disputes over the years. It is aimed at stakeholders in the legal, financial, and investment sectors who need to understand the risks associated with foreign investment in China.
 ## 2. Data 
-- **Source**: The data is derived from publicly available sources like Qichacha, Aiqicha, and China Judgments Online (中国裁判文书网).
+- **Source**: The data is derived from publicly available sources like Qichacha, Aiqicha, and China Judgments Online.
 - **Access Date**: 2026
 - **Key Fields**:
   - Company Name
   - Case Name
   - Court Region
-  - Case Date
 
 ## 3. Methods (main Python steps)
 The project follows these steps:
