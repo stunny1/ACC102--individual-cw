@@ -4,10 +4,6 @@ This project visualizes the judicial risk of foreign investment in China by anal
 ## 2. Data 
 - **Source**: The data is derived from publicly available sources like Qichacha, Aiqicha, and China Judgments Online.
 - **Access Date**: 2026
-- **Key Fields**:
-  - Company Name
-  - Case Name
-  - Court Region
 
 ## 3. Methods (main Python steps)
 The project follows these steps:
@@ -50,7 +46,7 @@ Ensure that the following data files are in place:
 - data/processed/ directory for processed files (e.g., company_data.csv, case_data.csv, court_data.csv, etc.).
 
 #（4）Then you can see the results.
-## 6. Product link / Demo
+## 6. Product link / Demo： https://github.com/stunny1/ACC102--individual-cw
 ## 7. Limitations & next steps
 - Limitations: This database has certain limitations, as some detailed information is only available to platform members. The data is presented in the form of pre-collected local files, meaning it cannot be updated in real-time. Furthermore, the analysis performed is mainly descriptive, with no advanced predictive modeling or deeper insights derived yet.
 - Next Steps: Future work can involve updating the dataset with more recent information, conducting more advanced statistical or machine learning analysis, and integrating real-time data sources to make the analysis more dynamic.
